@@ -1,5 +1,7 @@
 # demo-graphql
-iniciar el proyecto 
-npm run start
+Instalar dependecias
+`npm install`
+iniciar el proyecto
+`npm run start:dev`
 
-abrir el mavegador web http://localhost:5200/
+Abrir el navegador web http://localhost:5200/
